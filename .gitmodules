@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/cf20orianarojas/emailserver
+	branch = main
